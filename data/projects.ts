@@ -11,7 +11,7 @@ export const projectsData: Project[] = [
   {
     "id": "proj_zxcode",
     "name": "ZX-Code",
-    "githubUrl": "https://github.com/zouyuxuan122/ZX-code",
+    "githubUrl": "https://github.com/Ebony-Vinyl/ZX-code",
     "description": "全能 AI 编程 Agent：免 API Key 直连 DeepSeek/GLM/Kimi 等九家国产大模型，内置技能自进化引擎（GEPA）、长期记忆、OmO 多智能体编排、AST-Grep/LSP 代码理解和 3D 桌宠工作台。",
     "icon": "ZX",
     "tags": ["AI Agent", "GEPA", "OmO", "MCP"]
@@ -19,7 +19,7 @@ export const projectsData: Project[] = [
   {
     "id": "proj_zxsite",
     "name": "ZX-Code Website",
-    "githubUrl": "https://github.com/zouyuxuan122/zx-code-website",
+    "githubUrl": "https://github.com/Ebony-Vinyl/zx-code-website",
     "description": "ZX-Code 的展示网站：暗色玻璃拟态 + 非线性动效，部署于 GitHub Pages。",
     "icon": "W",
     "tags": ["Next.js", "Glassmorphism", "GitHub Pages"]
@@ -27,7 +27,7 @@ export const projectsData: Project[] = [
   {
     "id": "proj_chatxuan_android",
     "name": "ChatXuan Android",
-    "githubUrl": "https://github.com/zouyuxuan122/chatxuan-android-",
+    "githubUrl": "https://github.com/Ebony-Vinyl/chatxuan-android-",
     "description": "ChatXuan 的 Android 客户端，自己日常在用的移动端入口。",
     "icon": "A",
     "tags": ["Android", "AI", "App"]
@@ -35,7 +35,7 @@ export const projectsData: Project[] = [
   {
     "id": "proj_multiagent_paper",
     "name": "多模型协同推演",
-    "githubUrl": "https://github.com/zouyuxuan122/2.-Multi-Agent-Collaborative-Deliberation",
+    "githubUrl": "https://github.com/Ebony-Vinyl/2.-Multi-Agent-Collaborative-Deliberation",
     "description": "多模型协同系统的方法论研究：系统性梳理多 Agent 协同的短板与对策，为构建高性能、高可靠的桌面级推理应用打基础。",
     "icon": "M",
     "tags": ["Multi-Agent", "Research", "System Design"]
@@ -148,7 +148,7 @@ export const projectsData: Project[] = [
   {
     "id": "proj_summercherry",
     "name": "夏日樱桃",
-    "githubUrl": "https://github.com/zouyuxuan122/summer-cherry",
+    "githubUrl": "https://github.com/Ebony-Vinyl/summer-cherry",
     "description": "基于 enigma protector 与 VoidNovelEngine 引擎打造的夏日主题视觉互动小说。",
     "icon": "夏",
     "tags": ["Visual Novel", "VoidNovelEngine"]
@@ -163,7 +163,7 @@ export const projectsData: Project[] = [
   {
     "id": "proj_seatmaster",
     "name": "SeatMaster Pro",
-    "githubUrl": "https://github.com/zouyuxuan122/zouyuxuan122.github.io",
+    "githubUrl": "https://github.com/Ebony-Vinyl/Ebony-Vinyl.github.io",
     "description": "AI 智能座位管家：为活动、教室、婚礼、考场设计的座位编排工具，可视化拖拽、自动分配算法、导出 PDF/Excel，把繁琐的排座交给一行「智能分配」。",
     "icon": "S",
     "tags": ["Algorithm", "Canvas", "PDF Export"]
@@ -234,7 +234,7 @@ export const projectsData: Project[] = [
   {
     "id": "proj_web",
     "name": "web",
-    "githubUrl": "https://github.com/zouyuxuan122/web",
+    "githubUrl": "https://github.com/Ebony-Vinyl/web",
     "description": "我的第一代个人站：单页 HTML 作品集，带 3D 透视卡片与项目巡览动效，是本博客的前身。",
     "icon": "W",
     "tags": ["HTML", "Portfolio", "3D Effects"]
@@ -242,7 +242,7 @@ export const projectsData: Project[] = [
   {
     "id": "proj_999",
     "name": "999",
-    "githubUrl": "https://github.com/zouyuxuan122/999",
+    "githubUrl": "https://github.com/Ebony-Vinyl/999",
     "description": "早期网页实验页，为这个博客的交互风格积累了不少点子。",
     "icon": "9",
     "tags": ["HTML", "Experiment"]
