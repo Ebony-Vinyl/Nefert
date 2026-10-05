@@ -7,7 +7,7 @@ export const friendsData: Friend[] = [
     "name": "ZX-Code",
     "description": "我的核心研究平台：具备自进化技能引擎、无 Key 直连九家国产大模型的 harness。",
     "avatar": "/avatar.png",
-    "url": "https://github.com/zouyuxuan122/ZX-code",
+    "url": "https://github.com/Ebony-Vinyl/ZX-code",
     "themeColor": "rgba(99, 102, 241, 0.5)"
   },
   {
